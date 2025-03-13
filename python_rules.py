@@ -28,7 +28,7 @@ def complicated_code(input):
         input += c
         if a < b: 
             input += b   
-            if c < d:
+            if c < d:    
                 input += d
                 if a < c: 
                     while counter < 10:
