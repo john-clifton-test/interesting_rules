@@ -11,7 +11,7 @@ switch ($variable) {
     break;
 }
 
-echo("Hello Again World!");
+echo("Hello World!");
 
 return 1;
 

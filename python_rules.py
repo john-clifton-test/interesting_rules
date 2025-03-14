@@ -22,7 +22,7 @@ def complicated_code(input):
     b=2   
     c=3
     d=4
-    counter = 2
+    counter = 1
 
     # this doesn't appear to be working
 
