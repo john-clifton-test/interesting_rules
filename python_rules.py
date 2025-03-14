@@ -22,9 +22,9 @@ def complicated_code(input):
     b=2   
     c=3
     d=4
-    counter = 1
+    counter = 2
 
-    # another test?
+    # this doesn't appear to be working
 
     if a in (a,b,c,d):
         input += c
