@@ -2,7 +2,7 @@
 
 $variable = 0;
 
-switch ($variable) {
+switch ($variable) { 
   case 0:
     print "Case 0 triggered\n";
     break;
