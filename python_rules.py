@@ -28,7 +28,11 @@ def complicated_code(input):
 
     if a in (a,b,c,d):
         input += c
+<<<<<<< Updated upstream
         if a < b: 
+=======
+        if a < b: # testing 
+>>>>>>> Stashed changes
             input += b   
             if c < d:    
                 input += d
