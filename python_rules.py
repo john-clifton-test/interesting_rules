@@ -29,7 +29,11 @@ def complicated_code(input):
     if a in (a,b,c,d):
         input += c
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         if a < b: 
+=======
+        if a < b: # testing 
+>>>>>>> Stashed changes
 =======
         if a < b: # testing 
 >>>>>>> Stashed changes
